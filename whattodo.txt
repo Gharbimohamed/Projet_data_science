@@ -1,0 +1,8 @@
+Pour les datasets : 
+	Voir s'il y a unballanced data dans notre dataset et appliquer la méthode " under-sampling" afin d'avoir une certaine
+harmonie.
+	Le dataset visapremier nous allons faire une analyse sur la variable " classe cartevp"
+	Le dataset cerditcard la variable à expliquer est : classe " fraude ou pas", voir la méthode AUPRC
+
+
+
